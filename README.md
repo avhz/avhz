@@ -5,6 +5,7 @@
 ![Static Badge](https://img.shields.io/badge/Python-black?logo=python)
 ![Static Badge](https://img.shields.io/badge/C++-black?logo=cplusplus)
 ![Static Badge](https://img.shields.io/badge/C-black?logo=c)
+![Static Badge](https://img.shields.io/badge/Julia-black?logo=julia)
 
 ![Static Badge](https://img.shields.io/badge/Polars-black?logo=polars)
 ![Static Badge](https://img.shields.io/badge/Tidyverse-black?logo=tidyverse)
