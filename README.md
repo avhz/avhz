@@ -12,6 +12,8 @@
 ![Static Badge](https://img.shields.io/badge/PostgreSQL-black?logo=postgresql)
 ![Static Badge](https://img.shields.io/badge/Plotly-black?logo=plotly)
 ![Static Badge](https://img.shields.io/badge/SAP-black?logo=sap)
+![Static Badge](https://img.shields.io/badge/Docker-black?logo=docker)
+![Static Badge](https://img.shields.io/badge/Flask-black?logo=flask)
 
 ![Static Badge](https://img.shields.io/badge/MacOS-black?logo=macos)
 ![Static Badge](https://img.shields.io/badge/Linux-black?logo=linux)
