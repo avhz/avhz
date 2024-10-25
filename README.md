@@ -15,6 +15,8 @@
 ![Static Badge](https://img.shields.io/badge/SAP-black?logo=sap)
 ![Static Badge](https://img.shields.io/badge/Docker-black?logo=docker)
 ![Static Badge](https://img.shields.io/badge/Flask-black?logo=flask)
+![Static Badge](https://img.shields.io/badge/Streamlit-black?logo=streamlit)
+
 
 ![Static Badge](https://img.shields.io/badge/MacOS-black?logo=macos)
 ![Static Badge](https://img.shields.io/badge/Linux-black?logo=linux)
