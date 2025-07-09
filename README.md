@@ -14,7 +14,6 @@
 ![Static Badge](https://img.shields.io/badge/Plotly-black?logo=plotly)
 ![Static Badge](https://img.shields.io/badge/Streamlit-black?logo=streamlit)
 ![Static Badge](https://img.shields.io/badge/FastAPI-black?logo=fastapi)
-
 ![Static Badge](https://img.shields.io/badge/PostgreSQL-black?logo=postgresql)
 ![Static Badge](https://img.shields.io/badge/SQLite-black?logo=sqlite)
 ![Static Badge](https://img.shields.io/badge/DuckDB-black?logo=duckdb)
