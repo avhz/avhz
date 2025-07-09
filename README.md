@@ -11,15 +11,14 @@
 ![Static Badge](https://img.shields.io/badge/Polars-black?logo=polars)
 ![Static Badge](https://img.shields.io/badge/Tidyverse-black?logo=tidyverse)
 ![Static Badge](https://img.shields.io/badge/Spark-black?logo=apachespark)
+![Static Badge](https://img.shields.io/badge/Plotly-black?logo=plotly)
+![Static Badge](https://img.shields.io/badge/Streamlit-black?logo=streamlit)
+![Static Badge](https://img.shields.io/badge/FastAPI-black?logo=fastapi)
 
 ![Static Badge](https://img.shields.io/badge/PostgreSQL-black?logo=postgresql)
 ![Static Badge](https://img.shields.io/badge/SQLite-black?logo=sqlite)
 ![Static Badge](https://img.shields.io/badge/DuckDB-black?logo=duckdb)
 ![Static Badge](https://img.shields.io/badge/HANA-black?logo=sap)
-
-![Static Badge](https://img.shields.io/badge/Plotly-black?logo=plotly)
-![Static Badge](https://img.shields.io/badge/Streamlit-black?logo=streamlit)
-![Static Badge](https://img.shields.io/badge/FastAPI-black?logo=fastapi)
 
 ![Static Badge](https://img.shields.io/badge/MacOS-black?logo=macos)
 ![Static Badge](https://img.shields.io/badge/Linux-black?logo=linux)
